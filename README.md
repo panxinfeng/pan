@@ -2,5 +2,5 @@
 My personal repository
 
 $$
-E = M ^ 2
+E = M * C ^ 2
 $$
